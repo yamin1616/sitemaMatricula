@@ -1,0 +1,10 @@
+c:\users\edgar\documents\visual studio 2013\Projects\frmSitemaMat\frmSitemaMat\bin\Debug\frmSitemaMat.exe.config
+c:\users\edgar\documents\visual studio 2013\Projects\frmSitemaMat\frmSitemaMat\bin\Debug\frmSitemaMat.exe
+c:\users\edgar\documents\visual studio 2013\Projects\frmSitemaMat\frmSitemaMat\bin\Debug\frmSitemaMat.pdb
+c:\users\edgar\documents\visual studio 2013\Projects\frmSitemaMat\frmSitemaMat\obj\Debug\frmSitemaMat.csprojResolveAssemblyReference.cache
+c:\users\edgar\documents\visual studio 2013\Projects\frmSitemaMat\frmSitemaMat\obj\Debug\frmSitemaMat.Form1.resources
+c:\users\edgar\documents\visual studio 2013\Projects\frmSitemaMat\frmSitemaMat\obj\Debug\frmSitemaMat.frmNotas.resources
+c:\users\edgar\documents\visual studio 2013\Projects\frmSitemaMat\frmSitemaMat\obj\Debug\frmSitemaMat.Properties.Resources.resources
+c:\users\edgar\documents\visual studio 2013\Projects\frmSitemaMat\frmSitemaMat\obj\Debug\frmSitemaMat.csproj.GenerateResource.Cache
+c:\users\edgar\documents\visual studio 2013\Projects\frmSitemaMat\frmSitemaMat\obj\Debug\frmSitemaMat.exe
+c:\users\edgar\documents\visual studio 2013\Projects\frmSitemaMat\frmSitemaMat\obj\Debug\frmSitemaMat.pdb
